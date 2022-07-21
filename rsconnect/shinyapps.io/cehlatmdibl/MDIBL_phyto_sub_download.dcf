@@ -1,0 +1,14 @@
+name: MDIBL_phyto_sub_download
+title: MDIBL_phyto_sub_download
+username:
+account: cehlatmdibl
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6671654
+bundleId: 6117855
+url: https://cehlatmdibl.shinyapps.io/MDIBL_phyto_sub_download/
+when: 1658372644.39528
+lastSyncTime: 1658372644.3953
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .secrets/d67d4efb39eee449dc62932502fd8a0f_mmaniscalco@ucsb.edu|tax_table.csv
