@@ -213,7 +213,7 @@ ui <- fluidPage(
   sidebarLayout(
     sidebarPanel(selectInput("Site", label = "Choose site", location_Id, multiple = TRUE, selected = location_Id),
                  downloadButton("download1","Download entire Table  as csv")),
-    mainPanel(h4("Frenchmans Bay phytoplankton monitoring"),
+    mainPanel(h4("Frenchman Bay phytoplankton monitoring"),
               dataTableOutput("iris_dto")
     )
   ))
